@@ -1,7 +1,7 @@
 # VAE-GAN Pegasus
 
 **Aim**: Produce images of Pegasi from the CIFAR10 dataset.  
-**Chosen Network**: VAE-GAN  
+**Chosen Network**: VAE-GAN  [https://arxiv.org/pdf/1512.09300.pdf]  
 **Conclusion**: Due to the large intra-class variability, images were blurrier than expected. Having to interpolate between encodings/latent spaces meant the target feature (wings) were not as common. Nevertheless, the quality of results are better than the standard VAE (and was easier to train than a GAN).    
 
 <p align="center">
