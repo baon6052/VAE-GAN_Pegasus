@@ -1,1 +1,3 @@
-# VAE-GAN_Pegasus
+# VAE-GAN Pegasus
+
+![Encoder](/Encoder.png)
